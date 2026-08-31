@@ -149,7 +149,7 @@ pip install -r requirements.txt
 
 3. Open the Jupyter notebook
 ```bash
-jupyter notebook jupyter/project.ipynb
+jupyter notebook jupyter/Project.ipynb
 ```
 ##
 ## 📝 License
