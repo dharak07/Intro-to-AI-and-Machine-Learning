@@ -141,3 +141,17 @@ Key insights extracted from the dataset:
 ```bash
 git clone https://github.com/dharak07/Intro-to-AI-and-Machine-Learning.git
 ```
+
+2. Install dependencies
+```bash
+pip install -r requirements.txt
+```
+
+3. Open the Jupyter notebook
+```bash
+jupyter notebook jupyter/project.ipynb
+```
+##
+## 📝 License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
